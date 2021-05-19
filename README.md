@@ -1,2 +1,2 @@
 # Decodr_Tech
-It is a data science repository
+It is a Data Science Institute
